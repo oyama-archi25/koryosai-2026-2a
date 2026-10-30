@@ -847,6 +847,8 @@ footer details {
   --font-classroom: 'HG丸ｺﾞｼｯｸM-PRO','HGMaruGothicMPRO',Meiryo,'Yu Gothic',sans-serif;
 }
 
+.reception-priority .reception-class {font-family:var(--font-classroom);}
+
 .classroom-word {
   font-family: var(--font-classroom);
   font-variant-numeric: normal;
